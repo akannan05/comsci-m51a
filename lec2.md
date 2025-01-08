@@ -64,8 +64,9 @@ Example: $1101 + 1111$
 Example: $0101 + 0011$
 - Here we get $1000$ as our answer (-8), but we expect 8. Overflow has occured
 
-## Binary Specification
-
-
-
 ## Switching Functions
+
+We want to relate the input and output of a system using a switching function.
+- This can be a tabular representation where we just assign inputs to a certain output
+
+

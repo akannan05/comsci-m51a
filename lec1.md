@@ -44,5 +44,19 @@ Input and Output Functions:
 
 ## Combinational and Sequential Systems
 
+Combinational Systems follow the format:
+
+$$z(t) = F(x(t))$$
+
+- This system has no memory, so the output doesn't depend on previous inputs
+
+Sequential Systems follow the format:
+
+$$z(t) = F(x(0,t))$$
+
+- In this case $(0,t)$ is an input sequence from $\[0,t\]$, so the system does depend on
+  previous inputs.
+
+
 
 
