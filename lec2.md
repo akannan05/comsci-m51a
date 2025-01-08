@@ -29,7 +29,7 @@ Signed Binary Numbers:
 
 Pictorial Representation in 4 Bits:
 
-(insert)
+![pictorial](img/lec2_1.png)
 
 ### Negating Two's Complement
 
