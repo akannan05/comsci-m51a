@@ -31,11 +31,11 @@ function (system)
 
 Input and Output Sets:
 - Vector of any type (i.e: digit, character, set, bit). Examples:
-\\[ x = (7, 0, 6, 3), c = (B, O, O, K)\\]
+$$ x = (7, 0, 6, 3), c = (B, O, O, K) $$
 
 Input and Output Functions:
 - Tables
-- Arithmetic Expressions (i.e \\( z = 3x + 2y - 2\\)
+- Arithmetic Expressions (i.e $ z = 3x + 2y - 2 $
 - Conditional Expressions (piecewise functions)
 - Logical Expressions
 - Function Compositions
